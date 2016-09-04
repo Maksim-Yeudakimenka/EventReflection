@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{C5E56677-0BDC-416F-98A2-7D8198D05A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailingSystem", "MailingSystem\MailingSystem.csproj", "{7D22BEBA-6FDF-4186-B2DD-FEB00D228ED0}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventReflection", "EventReflection\EventReflection.csproj", "{F7CFAEC9-9001-4893-A028-44FC86DC8E80}"
 EndProject
 Global
@@ -11,6 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E56677-0BDC-416F-98A2-7D8198D05A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E56677-0BDC-416F-98A2-7D8198D05A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E56677-0BDC-416F-98A2-7D8198D05A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E56677-0BDC-416F-98A2-7D8198D05A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D22BEBA-6FDF-4186-B2DD-FEB00D228ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D22BEBA-6FDF-4186-B2DD-FEB00D228ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D22BEBA-6FDF-4186-B2DD-FEB00D228ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D22BEBA-6FDF-4186-B2DD-FEB00D228ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F7CFAEC9-9001-4893-A028-44FC86DC8E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F7CFAEC9-9001-4893-A028-44FC86DC8E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7CFAEC9-9001-4893-A028-44FC86DC8E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
